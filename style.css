@@ -1,0 +1,37 @@
+body{
+    background-image: url("cool-background.png");
+}
+h2{
+    /* margin-top: 70px; */
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+}
+.wrapper{
+    width: 450px;
+    height: 420px;
+    /* text-align: center; */
+    margin: auto;
+    font: 14px sans-serif;
+    margin-top: 200px;
+    background-color: turquoise;
+    border: 2px dashed palevioletred;
+    border-radius: 10px;
+}
+label{
+    margin-left: 15px;
+}
+input{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btn2{
+    /* margin: auto; */
+    margin-left: 43%;
+    margin-top: 10px;
+}
+.btn3{
+    margin-left: 25%;
+}
